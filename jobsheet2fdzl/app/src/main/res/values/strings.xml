@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">jobsheet2fdzl</string>
+    <string name="hello_world">HELLO WORLD!!!</string>
+    <string name="top">TOP</string>
+    <string name="button">BUTTON</string>
+    <string name="left_below_top">left below top</string>
+    <string name="right_above_button">right above button</string>
+</resources>
